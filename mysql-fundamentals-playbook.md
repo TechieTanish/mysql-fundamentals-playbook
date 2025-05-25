@@ -105,8 +105,10 @@ The ability to create, manage, and extract meaningful info from databases is tru
 ## ✅ Author Info
 
 **Written by:** [Tanish](https://cloudwith-tanish.hashnode.dev)  
-**Connect on LinkedIn:** [@cloudwithtanish](https://www.linkedin.com/in/tanish)  
-**GitHub Repo:** [Your GitHub Repo Link Here]
+**Connect on LinkedIn:** [@thetanish](www.linkedin.com/in/
+thetanish-a94ab72a8
+)  
+
 
 ---
 
